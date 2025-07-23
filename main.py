@@ -1,3 +1,4 @@
+# Do not delete user "admin" and "campuswoche"
 import sys
 
 import mysql.connector
